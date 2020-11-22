@@ -23,7 +23,7 @@ The year 2020 has been mutually christened by everyone around the globe as the w
 
 <br>
 
-
+```
 ## Instructions to run
 
 * Pre-requisites:

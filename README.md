@@ -52,7 +52,6 @@ The year 2020 has been mutually christened by everyone around the globe as the w
 Lakshmi Anusri Patti
 
 <p align="center">
-<img src = " https://lh3.googleusercontent.com/ogw/ADGmqu_Q8ii2P1PcDeyxpF8F1R5DoEIUj5om6f3O9At1aw=s83-c-mo" height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/person1"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -68,7 +67,6 @@ Lakshmi Anusri Patti
 Tarushi Pathak
 
 <p align="center">
-<img src = ""  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/person2"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -85,7 +83,7 @@ Tarushi Pathak
 Tanya Aggarwal
 
 <p align="center">
-<img src = ""  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+
 </p>
 <p align="center">
 <a href = "https://github.com/person3"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>

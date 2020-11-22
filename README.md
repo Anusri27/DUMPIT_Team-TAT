@@ -23,23 +23,6 @@ The year 2020 has been mutually christened by everyone around the globe as the w
 
 <br>
 
-```
-## Instructions to run
-
-* Pre-requisites:
-	-  < insert pre-requisite >
-	-  < insert pre-requisite >
-
-* < directions to install > 
-```bash
-< insert code >
-```
-```
-* < directions to execute >
-
-```bash
-< insert code >
-```
 
 ## Contributors
 

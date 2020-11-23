@@ -78,8 +78,7 @@ Tanya Aggarwal
 </tr>
   </table>
   
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+### The project is not open for reproduction and distribution without explicit permission from us. Creation of derivative work without our permission is also discouraged.
 
 <p align="center">
 	Made with :heart: by Team Tat
